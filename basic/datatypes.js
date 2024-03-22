@@ -81,3 +81,17 @@ const temp= null
 
 // Stack (Primitive data types )
 // Heap (Non-Primitivr data types)
+
+
+let Firstname = "haris"
+
+let secndName= Firstname
+
+secndName = "khlaid"
+
+console.log(Firstname);
+console.log(secndName);
+
+
+
+

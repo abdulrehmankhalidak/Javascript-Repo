@@ -63,15 +63,21 @@ const temp= null
 // Arrays, Objects, Functions 
 
 
-const fruits = ["apple", "mango", "grapes"];
+// const fruits = ["apple", "mango", "grapes"];
 
-let obj = {
-    name: "haris",
-    age: 22,
-}
+// let obj = {
+//     name: "haris",
+//     age: 22,
+// }
 
 
-const myfunction = function(){
-    console.log("hello");
-}
+// const myfunction = function(){
+//     console.log("hello");
+// }
 
+
+
+// *******************************Stack and Heap memory in javascript /////////////////////////////
+
+// Stack (Primitive data types )
+// Heap (Non-Primitivr data types)

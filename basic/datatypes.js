@@ -83,15 +83,25 @@ const temp= null
 // Heap (Non-Primitivr data types)
 
 
-let Firstname = "haris"
+// let Firstname = "haris"
 
-let secndName= Firstname
+// let secndName= Firstname
 
-secndName = "khlaid"
+// secndName = "khlaid"
 
-console.log(Firstname);
-console.log(secndName);
-
-
+// console.log(Firstname);
+// console.log(secndName);
 
 
+
+
+//////////////////////////Strings in Javascript////////////////////////////
+
+const name = "haris"
+
+const repoCount=50
+
+console.log(`hello this is ${name} and number count is ${repoCount}` );
+
+const gameName=  new String("harisssss")
+console.log(gameName);
